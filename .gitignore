@@ -1,0 +1,20 @@
+# CUDA 编译产物
+*.o
+*.obj
+*.ptx
+*.cubin
+*.fatbin
+
+# Nano 临时文件
+*.swp
+*.swo
+
+# 性能分析报告
+*.ncu-rep
+
+# 可执行文件
+/task0/device_info
+/task1/cache_latency
+/task1/cache_latency_ca
+/task1/cache_latency_cg
+/task1/memory_bandwidth
