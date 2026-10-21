@@ -18,3 +18,6 @@
 /task1/cache_latency_ca
 /task1/cache_latency_cg
 /task1/memory_bandwidth
+/task1/cache_bandwidth
+/task1/cache_bandwidth_benchmark
+/task1/cache_bandwidth_benchmark_cg
